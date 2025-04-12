@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Pranshul!
-
+![Profile Views](https://komarev.com/ghpvc/?username=PranshulBajaj&color=blue)
 🎓 I'm a 2nd-year BTech student at MSIT (CSE)  
 💻 Focused on mastering **Web Development** & **Data Structures and Algorithms (DSA)**  
 🚀 Currently working on projects using **HTML, CSS, JavaScript**, and diving deeper into **React & Node.js**  
