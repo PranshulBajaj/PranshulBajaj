@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Pranshul! 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=PranshulBajaj&color=blue)
+
 
 
 🎓 I'm a 2nd-year BTech student at MSIT (CSE)  
@@ -9,11 +9,6 @@
 🚀 Currently working on projects using **HTML, CSS, JavaScript**, and diving deeper into **React & Node.js**  
 🧠 Practicing DSA on platforms like **LeetCode** and **GFG**  
 📚 Learning every day to build a strong foundation for **internships and job offers**
-
-## 🚧 Projects I'm working on:
-- 🌐 **Portfolio Website** – Personal website to showcase my work and skills
-- 📚 **DSA Tracker** – A web app to track DSA problem-solving progress(coming soon)
-- 📖 **Blogify** – A full-stack blog platform using Node.js and MongoDB (coming soon)
 
 ## 🛠️ Skills:
 - **Languages:** C++, Java, HTML, CSS, JavaScript  
